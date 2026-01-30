@@ -1,5 +1,4 @@
-## Hi there 👋 I'm Swatalina Palar
-A Computer Science student who believes in growth 
+## Hi there 👋 I'm Swatalina Palar<br>
 This space is more than just code — 
 it’s a record of progress, mistakes, and improvement.
 
