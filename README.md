@@ -2,7 +2,7 @@
 This space is more than just code — 
 it’s a record of progress, mistakes, and improvement.
 
-# 💻 Tech Stack:
+# 💻 <h6>Tech Stack:</h6>
 <br>🌐LANGUAGES![C++](https://img.shields.io/badge/C++-6C7AE0?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=FFD43B)
