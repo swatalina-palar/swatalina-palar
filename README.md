@@ -4,12 +4,8 @@ This space is more than just code — <br>
 it’s a record of progress, mistakes, and improvement.
 
 # <h3> 💻 Tech Stack :</h3>
-<br><h4>🌐LANGUAGES </h4> ![C++](https://img.shields.io/badge/C++-6C7AE0?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=FFD43B)
-![R](https://img.shields.io/badge/R-5A7EC8?style=flat-square&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-8892BF?style=flat-square&logo=c&logoColor=white)<br><h4>🧩FRAMEWORKS</h4> 
- ![Streamlit](https://img.shields.io/badge/Streamlit-FF6F61?style=flat-square&logo=streamlit&logoColor=white)
+<br><h4>🌐LANGUAGES </h4> ![C++](https://img.shields.io/badge/C++-6C7AE0?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=FFD43B)![R](https://img.shields.io/badge/R-5A7EC8?style=flat-square&logo=r&logoColor=white)![C](https://img.shields.io/badge/C-8892BF?style=flat-square&logo=c&logoColor=white)<br>
+<h4>🧩FRAMEWORKS</h4>  ![Streamlit](https://img.shields.io/badge/Streamlit-FF6F61?style=flat-square&logo=streamlit&logoColor=white)
 <br><h4>🗄️DATABASES </h4>  ![MySQL](https://img.shields.io/badge/MySQL-5D87A1?style=flat-square&logo=mysql&logoColor=white)
 <BR><h4>🎨DESIGN</h4>   ![Canva](https://img.shields.io/badge/Canva-6DD5C4?style=flat-square&logo=canva&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
