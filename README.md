@@ -1,4 +1,4 @@
-## <h2>Hi👋 I'm Swatalina Palar</h2><br> 
+## <h2>Hi I'm Swatalina Palar</h2><br> 
 I’m Computer Science Student who is currently exploring AI automation,tools,and innovative web applications to make life simpler and more efficient.<br>
 This space is more than just code — <br>
 it’s a record of progress, mistakes, and improvement.
