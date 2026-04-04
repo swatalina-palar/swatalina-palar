@@ -1,7 +1,50 @@
-## <h2>Hi I'm Swatalina Palar</h2><br> 
-I’m Computer Science Student who is currently exploring AI automation,tools,and innovative web applications to make life simpler and more efficient.<br>
+
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+
+## About me
+
+<br>I’m Computer Science Student who is currently exploring AI automation,tools,and innovative web applications to make life simpler and more efficient.<br>
 This space is more than just code — <br>
 it’s a record of progress, mistakes, and improvement.
 
-# <h3> 💻 Tech Stack :</h3>
-<br>🌐LANGUAGES  ![C++](https://img.shields.io/badge/C++-6C7AE0?style=flat-square&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=FFD43B)  ![R](https://img.shields.io/badge/R-5A7EC8?style=flat-square&logo=r&logoColor=white)  ![C](https://img.shields.io/badge/C-8892BF?style=flat-square&logo=c&logoColor=white)<br>🧩FRAMEWORKS  ![Streamlit](https://img.shields.io/badge/Streamlit-FF6F61?style=flat-square&logo=streamlit&logoColor=white)<br>🗄️DATABASES  ![MySQL](https://img.shields.io/badge/MySQL-5D87A1?style=flat-square&logo=mysql&logoColor=white)<BR>🎨DESIGN   ![Canva](https://img.shields.io/badge/Canva-6DD5C4?style=flat-square&logo=canva&logoColor=white)  ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)  ![Adobe Acrobat](https://img.shields.io/badge/Acrobat-EA4335?style=flat-square&logo=adobeacrobatreader&logoColor=white)<BR>🤖ML/DL  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8F00?style=flat-square&logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-F26B38?style=flat-square&logo=pytorch&logoColor=white)
+## I code with
+
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+</a>
+
+<a href="https://pt-br.reactjs.org" target="_blank">
+ <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
+</a>
+
+<a href="https://tailwindcss.com" target="_blank">
+ <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
+</a>
+
+<a href="https://nextjs.org" target="_blank">
+  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
+</a>
+
+<a href="https://nestjs.com" target="_blank">
+  <img align="left" title="Nest Js" alt="Nest Js" width="40px" src="./assets/nest-logo.svg" />
+</a>
+
+<a href="https://go.dev" target="_blank">
+  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="./assets/golang-logo.svg" />
+</a>
+
+<a href="https://graphql.org" target="_blank">
+  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./assets/graphql-logo.svg" />
+</a>
+
+<a href="https://jestjs.io/pt-BR/" target="_blank">
+  <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
+</a>
+
+<a href="https://www.cypress.io" target="_blank">
+  <img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
+</a>
+
+<a href="https://storybook.js.org" target="_blank">
+  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
+</a>
