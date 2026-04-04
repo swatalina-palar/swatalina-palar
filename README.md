@@ -60,7 +60,4 @@
 
 ---
 
-### ✨ Philosophy
-> “Progress is built through consistency, not perfection.”
 
----
