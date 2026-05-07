@@ -41,13 +41,6 @@ src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongod
 <p>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>   <img src="https://img.shields.io/badge/Acrobat-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </p>
------
-
-# <h2>📊 GitHub Stats </h2>
-![](https://github-readme-stats.shion.dev/api?username=swatalina-palar&show_icons=true&theme=transparent&title_color=00C4CC&text_color=ffffff&icon_color=00C4CC&hide_border=false&border_color=00C4CC)
-     ![](https://streak-stats.demolab.com/?user=swatalina-palar&theme=transparent&ring=00C4CC&fire=FF4B4B&currStreakLabel=00C4CC&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=swatalina-palar&layout=compact&theme=transparent&title_color=00C4CC&text_color=ffffff&hide_border=false&border_color=00C4CC)
 
 
 
