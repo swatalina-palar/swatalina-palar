@@ -43,14 +43,9 @@ src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongod
 </p>
 -----
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=swatalina-palar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=swatalina-palar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=swatalina-palar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://komarev.com/ghpvc/?username=swatalina-palar&icon=0&color=0)](https://visitcount.itsvg.in)
+# <h2>📊 GitHub Stats </h2>
+![](https://github-readme-stats.shion.dev/api?username=swatalina-palar&show_icons=true&theme=transparent&title_color=00C4CC&text_color=ffffff&icon_color=00C4CC&hide_border=false&border_color=00C4CC)      ![](https://streak-stats.demolab.com/?user=swatalina-palar&theme=transparent&ring=00C4CC&fire=FF4B4B&currStreakLabel=00C4CC&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=swatalina-palar&layout=compact&theme=transparent&title_color=00C4CC&text_color=ffffff&hide_border=false&border_color=00C4CC)
 
 
 
