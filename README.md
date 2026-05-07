@@ -44,14 +44,10 @@ src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongod
 -----
 
 # <h2>📊 GitHub Stats </h2>
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-<img src="https://github-readme-stats.shion.dev/api?username=swatalina-palar&theme=dark&show_icons=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=swatalina-palar&theme=dark" width="49%"/>
-</div>
-<br/>
-<div>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=swatalina-palar&layout=compact&theme=dark" width="100%"/>
-</div>
+![](https://github-readme-stats.shion.dev/api?username=swatalina-palar&show_icons=true&theme=transparent&title_color=00C4CC&text_color=ffffff&icon_color=00C4CC&hide_border=false&border_color=00C4CC)
+     ![](https://streak-stats.demolab.com/?user=swatalina-palar&theme=transparent&ring=00C4CC&fire=FF4B4B&currStreakLabel=00C4CC&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=swatalina-palar&layout=compact&theme=transparent&title_color=00C4CC&text_color=ffffff&hide_border=false&border_color=00C4CC)
 
 
 
